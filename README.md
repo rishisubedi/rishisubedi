@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f260&height=300&section=header&text=Rishi%20Subedi&fontSize=90&fontColor=0a0b1e&animation=fadeIn&fontAlignY=38&desc=Quantitative%20Researcher%20%7C%20Financial%20Machine%20Learning&descAlignY=55&descAlign=50" alt="Rishi Subedi Header" width="100%" />
 
   <a href="https://rishisubedi.github.io">

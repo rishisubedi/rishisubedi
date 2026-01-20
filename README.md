@@ -38,6 +38,7 @@ I am a **Quantitative Researcher** and **Computer Science** student specializing
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
   <br><br>
 
@@ -60,10 +61,7 @@ I am a **Quantitative Researcher** and **Computer Science** student specializing
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]">
+  <a href="https://www.linkedin.com/in/rishisubedi/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rishisubedi@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>

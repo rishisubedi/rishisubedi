@@ -1,71 +1,69 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f260&height=300&section=header&text=Rishi%20Subedi&fontSize=90&fontColor=0a0b1e&animation=fadeIn&fontAlignY=38&desc=Seeking%20Summer%202026%20Fintech%20Internship%20%7C%20Neuro-symbolic%20AI&descAlignY=55&descAlign=50" alt="Rishi Subedi Header" width="100%" />
+<h1 align="center">Hi there, I'm Rishi Subedi 👋</h1>
 
-  <a href="https://rishisubedi.github.io">
-    <img src="https://img.shields.io/badge/🚀_View_Portfolio-rishisubedi.github.io-00f260?style=for-the-badge&logoColor=0a0b1e&labelColor=0a0b1e" alt="Portfolio Website" />
+<h3 align="center">AI Governance Researcher | Quantitative Engineer | ML Enthusiast</h3>
+
+<p align="center">
+  <a href="https://rishisubedi.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/rishiram435">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rishiram435/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+</p>
 
 ---
 
-### 🔬 Research Focus
+### 🔬 About Me
 
-I am an **AI Governance Researcher (MRes)** helping financial institutions build **Trustworthy AI**. My work bridges the gap between deep learning architectures and regulatory compliance (e.g., FCA Consumer Duty).
+I am an **AI Governance Researcher (MRes)** helping financial institutions build Trustworthy AI. My work bridges the gap between deep learning architectures and regulatory compliance (e.g., FCA Consumer Duty). 
 
-- 🟢 **Status**: **Open to Summer 2026 Internships** (Machine Learning Engineer / Quant / AI Safety).
-- 🔭 **Current Research**: Developing Neuro-symbolic audit layers to prevent hallucinations in financial LLMs.
-- 🎓 **Education**: MRes AI in Business (University of Hertfordshire) | MSc Financial Engineering (WorldQuant University).
-- 📍 **Location**: London, UK.
+- 🟢 **Status:** Open to **Summer 2026 Internships** (Machine Learning Engineer / Quant / AI Safety).
+- 🔭 **Current Research:** Developing Neuro-symbolic audit layers to prevent hallucinations in financial LLMs.
+- 🎓 **Education:** MRes AI in Business (*University of Hertfordshire*) | MSc Financial Engineering (*WorldQuant University*).
+- 📍 **Location:** London, UK.
+- 💬 **Ask me about:** AI Safety, Quantitative Finance, and LLM Auditing.
+
+---
+
+### 🛠️ Quantitative & Engineering Toolkit
+
+**Languages & Core Utilities**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Neuro--symbolic_AI-00f260?style=for-the-badge&logoColor=black" alt="Neuro-symbolic AI" />
+  <img src="https://img.shields.io/badge/SPSS-blue?style=for-the-badge" alt="SPSS" />
+</p>
+
+**Machine Learning & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LLMs-FF9900?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+</p>
+
+**Infrastructure & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/LLM_Ops-FF9900?style=for-the-badge&logoColor=white" alt="LLM_Ops" />
+</p>
 
 ---
 
 ### 🧠 Featured Projects
 
-| Project | Description | Tech Stack | Status |
-|:---|:---|:---|:---|
-| **[Neuro-symbolic Auditing](https://github.com/rishisubedi/Neuro-Symbolic-Audit)** | **(New)** 'Glass Box' audit layer using logic rules to enforce regulatory constraints on Financial LLMs. | `Python` `Neuro-symbolic AI` `LLMs` | 🟢 **Active Research** |
-| **[Market Sentiment Analysis](https://github.com/rishisubedi/Market-Sentiment-Analysis)** | NLP pipeline correlating social sentiment with market volatility for algorithmic trading. | `Python` `LSTM` `NLP` | 🟢 **Active** |
-| **[AI Lending Fairness Audit](https://github.com/rishisubedi/AI-Lending-Audit)** | Empirical study (n=131) validating trust barriers in algorithmic lending across developing markets. | `SPSS` `Statistical Analysis` | 🟡 **Published** |
-| **[Deep Learning Demand Prediction](https://github.com/rishisubedi/Deep-Learning-Demand-Prediction)** | Neural Network for forecasting chaotic time-series demand patterns. | `PyTorch` `Pandas` | 🟡 **Maintained** |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🔍 **[Neuro-symbolic Auditing](https://github.com/rishisubedi/Neuro-Symbolic-Audit)** | Audit layers designed to detect and prevent hallucinations in financial LLM outputs. | `Python`, `Neuro-symbolic AI`, `LLMs` |
+| 📈 **[Market Sentiment Analysis](https://github.com/rishisubedi/Market-Sentiment-Analysis)** | Deep learning model to analyze and predict market sentiment using natural language processing. | `Python`, `LSTM`, `NLP` |
+| ⚖️ **[AI Lending Fairness Audit](https://github.com/rishisubedi/AI-Lending-Audit)** | Statistical auditing of AI lending models to ensure fairness and regulatory compliance. | `SPSS`, `Statistical Analysis` |
+| 🛍️ **[Deep Learning Demand Prediction](https://github.com/rishisubedi/Deep-Learning-Demand-Prediction)** | Neural network models built to accurately forecast consumer demand and optimize inventory. | `PyTorch`, `Pandas` |
 
 ---
 
-### 🛠 Quantitative Toolkit
+### 📊 GitHub Stats
 
-<div align="center">
-  
-  **Core Analysis**
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neuro--symbolic_AI-00f260?style=for-the-badge&logoColor=black" />
-
-  <br><br>
-
-  **Infrastructure & Web**
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Ops-FF9900?style=for-the-badge&logo=openai&logoColor=white" />
-
-</div>
-
----
-
-### 📊 Github Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishisubedi&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0a0b1e&title_color=00f260&icon_color=00f260" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="mailto:rishiram.subedi@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishisubedi&show_icons=true&theme=radical&hide_border=true" alt="Rishi's GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishisubedi&theme=radical&hide_border=true" alt="Rishi's GitHub Streak" />
+</p>

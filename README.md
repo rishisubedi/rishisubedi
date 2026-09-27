@@ -17,7 +17,7 @@
 
 I am an **AI Governance Researcher (MRes)** helping financial institutions build Trustworthy AI. My work bridges the gap between deep learning architectures and regulatory compliance (e.g., FCA Consumer Duty). 
 
-- 🎯 **Status:** Actively seeking **Graduate Scheme Roles (Quantitative, AI, and Data Science)** at Tier-1 UK Banks for 2025/2026.
+- 🎯 **Status:** Actively seeking **Graduate Scheme Roles (Quantitative, AI, and Data Science)** at Tier-1 UK Banks for 2027/2028.
 - 🔭 **Current Work:** Building **FlowScore**, a B2B SaaS Multi-Agent Underwriting Engine with strict enterprise guardrails.
 - 🔬 **Research:** Developing Neuro-symbolic audit layers to prevent hallucinations in financial LLMs.
 - 🎓 **Education:** MRes AI in Business (*University of Hertfordshire*) | MSc Financial Engineering (*WorldQuant University*).
